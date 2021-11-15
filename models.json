@@ -1,6 +1,10 @@
 {
 	"models": [
 		{
+			"name": "banana",
+			"animations": []
+		},
+		{
 			"name": "bench",
 			"animations": []
 		},
@@ -17,16 +21,62 @@
 			]
 		},
 		{
+			"name": "broccoli",
+			"animations": []
+		},
+		{
+			"name": "cucumber",
+			"animations": []
+		},
+		{
 			"name": "dog",
-			"animations": ["0|play_dead_0", "0|rollover_0", "0|shake_0", "0|sitting_0", "0|standing_0"]
+			"animations": [
+				"0|play_dead_0",
+				"0|rollover_0",
+				"0|shake_0",
+				"0|sitting_0",
+				"0|standing_0"
+			]
+		},
+		{
+			"name": "garlic",
+			"animations": []
 		},
 		{
 			"name": "instructor",
 			"animations": ["Armature|mixamo.com|Layer0"]
 		},
 		{
+			"name": "lemon",
+			"animations": []
+		},
+		{
+			"name": "onion",
+			"animations": []
+		},
+		{
+			"name": "orange",
+			"animations": []
+		},
+		{
+			"name": "pomegranate",
+			"animations": []
+		},
+		{
+			"name": "red chili",
+			"animations": []
+		},
+		{
 			"name": "robot",
 			"animations": ["Take 001"]
+		},
+		{
+			"name": "tomato",
+			"animations": []
+		},
+		{
+			"name": "watermelon",
+			"animations": []
 		}
 	]
 }
