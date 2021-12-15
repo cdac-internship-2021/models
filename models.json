@@ -2,7 +2,8 @@
 	"models": [
 		{
 			"name": "banana",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587334206596-c0f9f7dccbe6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=881&q=80"
 		},
 		{
 			"name": "bench",
@@ -22,11 +23,13 @@
 		},
 		{
 			"name": "broccoli",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "cucumber",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587411768638-ec71f8e33b78?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "dog",
@@ -40,7 +43,8 @@
 		},
 		{
 			"name": "garlic",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587049332298-1c42e83937a7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "instructor",
@@ -48,19 +52,23 @@
 		},
 		{
 			"name": "lemon",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587486937303-32eaa2134b78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80"
 		},
 		{
 			"name": "onion",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587049633312-d628ae50a8ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "pomegranate",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "red chili",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1583119022894-919a68a3d0e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
 		},
 		{
 			"name": "robot",
@@ -68,11 +76,13 @@
 		},
 		{
 			"name": "tomato",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1587486938113-d6d38d424efa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1780&q=80"
 		},
 		{
 			"name": "watermelon",
-			"animations": []
+			"animations": [],
+			"poster": "https://images.unsplash.com/photo-1582281298055-e25b84a30b0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=905&q=80"
 		}
 	]
 }
